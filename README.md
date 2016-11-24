@@ -1,2 +1,2 @@
-# webviewtemplate
-Webview Template just change te url
+# Webview Template
+Webview Template just change the url
