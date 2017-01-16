@@ -10,9 +10,6 @@ You just need to change some files:
 *MainActivity.java
 *Also create the class MyAppWebViewClient.java
 
-```
-Give examples
-```
 ### Installing
 
 You can clone all the project just changing the url or you can just change that 4 files in your project.
