@@ -1,4 +1,4 @@
-# WebView Template
+# WebView Template for newbies
 
 Easy way to do a webview.
 
