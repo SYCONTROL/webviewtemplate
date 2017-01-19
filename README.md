@@ -15,6 +15,7 @@ You just need to change some files:
 2. Choose the "New" option
   * Image Asset
 3. And now just choose the asset type and the icon that you like
-### Installing
+
+#### Installing
 
 You can clone all the project just changing the url or you can just change that 4 files in your project.
