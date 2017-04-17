@@ -25,6 +25,8 @@ public class MainActivity extends Activity {
         // Enable Javascript
         WebSettings webSettings = mWebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
+        //Enable DOM Storage
+        webSettings.setDomStorageEnabled(true);
 
         // Use remote resource
         mWebView.loadUrl("http://demo.syscap.in/app");
